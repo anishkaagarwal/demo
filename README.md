@@ -1,2 +1,1 @@
-# demo
-first git repo 
+DMRC project 2024
